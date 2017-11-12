@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dazraf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dazraf.io
+  * I am dazraf (https://keybase.io/dazraf) on keybase.
+  * I have a public key ASB8jWcPw3DcQkhfej2CDR4dG5FUO9fN770yw9jbT5ztzAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d971e2e6e0cf715e7ed52581e5e7cd8ded86500b63bbb013cae8e2b784bff2180a",
+      "host": "keybase.io",
+      "kid": "01207c8d670fc370dc42485f7a3d820d1e1d1b91543bd7cdefbd32c3d8db4f9cedcc0a",
+      "uid": "a3120b1226ee842954192f2b171a3b19",
+      "username": "dazraf"
+    },
+    "merkle_root": {
+      "ctime": 1510396934,
+      "hash": "b38dec666343adcae18fe9314c140c3e303c90fd567fb6559bca83f2b76fd46a2ded4a3968a3d5a80940a7d95a784bf3c5eb9e9ebdbbaf7c024a8685b3ec6b3a",
+      "hash_meta": "a797a26a9ecf7de884eec83e7cbd358f5f1414d6748c2dd2ee52b52bc43f5739",
+      "seqno": 1693249
+    },
+    "service": {
+      "hostname": "www.dazraf.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510396950,
+  "expire_in": 504576000,
+  "prev": "3f5ea5ae1705282806ccec0be72518c3acdc0f354378376d6a38f3ecfd9ff2de",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfI1nD8Nw3EJIX3o9gg0eHRuRVDvXze+9MsPY20+c7cwKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZDk3MWUyZTZlMGNmNzE1ZTdlZDUyNTgxZTVlN2NkOGRlZDg2NTAwYjYzYmJiMDEzY2FlOGUyYjc4NGJmZjIxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2M4ZDY3MGZjMzcwZGM0MjQ4NWY3YTNkODIwZDFlMWQxYjkxNTQzYmQ3Y2RlZmJkMzJjM2Q4ZGI0ZjljZWRjYzBhIiwidWlkIjoiYTMxMjBiMTIyNmVlODQyOTU0MTkyZjJiMTcxYTNiMTkiLCJ1c2VybmFtZSI6ImRhenJhZiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMDM5NjkzNCwiaGFzaCI6ImIzOGRlYzY2NjM0M2FkY2FlMThmZTkzMTRjMTQwYzNlMzAzYzkwZmQ1NjdmYjY1NTliY2E4M2YyYjc2ZmQ0NmEyZGVkNGEzOTY4YTNkNWE4MDk0MGE3ZDk1YTc4NGJmM2M1ZWI5ZTllYmRiYmFmN2MwMjRhODY4NWIzZWM2YjNhIiwiaGFzaF9tZXRhIjoiYTc5N2EyNmE5ZWNmN2RlODg0ZWVjODNlN2NiZDM1OGY1ZjE0MTRkNjc0OGMyZGQyZWU1MmI1MmJjNDNmNTczOSIsInNlcW5vIjoxNjkzMjQ5fSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5kYXpyYWYuaW8iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTEwMzk2OTUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjNmNWVhNWFlMTcwNTI4MjgwNmNjZWMwYmU3MjUxOGMzYWNkYzBmMzU0Mzc4Mzc2ZDZhMzhmM2VjZmQ5ZmYyZGUiLCJzZXFubyI6MjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAppGdBvY9b2ewMEEXbrXQtCZmhaHy+dIR3KUKLFGsHM6TIGEDtQMxoZUVPiTh2EKj2eUmYON2iHhiIPe0XX1eC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK/voQvhw4nXhYwEQEaUU9WYQkZz/Riepb5B1X6xVvHTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dazraf
+
+==================================================================
